@@ -34,6 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+
 Semantic HTML gives meaning to your html. It lets devs and computers read the html.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
@@ -51,6 +52,7 @@ the horizontal or x axis
 5. Explain why git is valuable to a team of developers.
 
 Git allows a team of developers to each work individually on a project and then merge their work in a way that doesn't get chaotic, and allows for previous versions of the project to be easily accessed.
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
